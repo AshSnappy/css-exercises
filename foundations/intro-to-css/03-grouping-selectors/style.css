@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.adjust-font {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+
+}
+
+.cm1 {
+    background-color: black;
+    color: white;
+}
+
+.cm2 {
+    background-color: yellow;
+}
